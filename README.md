@@ -1,4 +1,5 @@
-1. What is README? 
+1. What is README?
+
 A README.md is the front page of your GitHub project. It tells what your project does, how to use it, 
 and why it matters. This guide shows you how to create a clear and effective README in Markdown. 
 
